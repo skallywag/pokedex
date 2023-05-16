@@ -1,0 +1,21 @@
+$primaryRed: #e3350d;
+$secondaryRed: #ee6b2f;
+$primaryBlue: #1b53ba;
+$secondaryBlue: #30a7d7;
+$primaryPurple: #855ac9;
+$primaryGreen: #4dad5b;
+$primaryGray: #919191;
+$black: #000000;
+$white: #ffffff;
+
+:export {
+  primaryRed: $primaryRed;
+  secondaryRed: $secondaryRed;
+  primaryBlue: $primaryBlue;
+  primaryPurple: $primaryPurple;
+  primaryGreen: $primaryGreen;
+  secondaryBlue: $secondaryBlue;
+  primaryGray: $primaryGray;
+  black: $black;
+  white: $white;
+}
