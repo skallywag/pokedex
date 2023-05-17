@@ -5,7 +5,8 @@ $secondaryBlue: #30a7d7;
 $primaryPurple: #855ac9;
 $primaryGreen: #4dad5b;
 $primaryGray: #919191;
-$black: #000000;
+$primaryBlack: #000000;
+$secondaryBlack: #313131;
 $white: #ffffff;
 
 :export {
@@ -16,6 +17,7 @@ $white: #ffffff;
   primaryGreen: $primaryGreen;
   secondaryBlue: $secondaryBlue;
   primaryGray: $primaryGray;
-  black: $black;
+  primaryBlack: $primaryBlack;
+  secondayBlack: $secondaryBlack;
   white: $white;
 }
